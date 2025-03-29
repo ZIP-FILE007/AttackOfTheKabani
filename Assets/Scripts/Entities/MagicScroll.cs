@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Assets.Scripts.Entities;
 #nullable enable
-internal class MagicScroll : Entity, IItem
+public class MagicScroll : Entity, IItem
 {
     public IPersonage? CurrentPersonage { get; set; }
     public bool OnTheFloor => CurrentPersonage == null;
