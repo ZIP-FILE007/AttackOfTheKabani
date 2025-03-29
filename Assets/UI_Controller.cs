@@ -33,6 +33,6 @@ public class UI_Controller : MonoBehaviour
     }
 
     void AuthorsBtnPressed() {
-        //SceneManager.LoadScene("authors");
+        SceneManager.LoadScene("authors");
     }
 }
