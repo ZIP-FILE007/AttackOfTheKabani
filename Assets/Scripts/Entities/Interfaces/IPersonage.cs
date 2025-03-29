@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 #nullable enable
 public interface IPersonage : IDestroyable, IMovable 
@@ -8,4 +9,5 @@ public interface IPersonage : IDestroyable, IMovable
     List<IItem> Inventory { get; }
     IItem? SelectedWeapon { get; }
     void SelectWeapon(IItem weapon);
+    Action OnMove {get; set;}
 }

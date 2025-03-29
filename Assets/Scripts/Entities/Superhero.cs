@@ -29,6 +29,8 @@ public class Superhero : IAlly
 
     public List<IAbility> Abilities => throw new NotImplementedException();
 
+    public Action OnMove { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
     public void Hit(float damage, Force force)
     {
         throw new NotImplementedException();
