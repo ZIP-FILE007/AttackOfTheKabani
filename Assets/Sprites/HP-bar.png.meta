@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3b2284ed6f0defa4a9bff738078fc20e
+guid: 4fbbf5599cb1642438b5e44066b6d410
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8759071101205332596
-    second: hotbar outer_0
+      213: -5180663456941630791
+    second: HP-bar_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,12 +100,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hotbar outer_0
+      name: HP-bar_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 187
+        width: 113
         height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 472cbbd42c87e8970800000000000000
-      internalID: 8759071101205332596
+      spriteID: 9ba9524c8069a18b0800000000000000
+      internalID: -5180663456941630791
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      hotbar outer_0: 8759071101205332596
+      HP-bar_0: -5180663456941630791
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
