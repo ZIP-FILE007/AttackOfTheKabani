@@ -30,6 +30,6 @@ public static class UnityExtensions
 
     public static Vector2 GetPositionInTilemap(this GameObject @object)
     {
-        return new Vector2(Math.Abs(@object.transform.position.x), Math.Abs(@object.transform.position.y));
+        return new Vector2(MathF.Round(@object.transform.position.x), MathF.Round(@object.transform.position.y));
     }
 }

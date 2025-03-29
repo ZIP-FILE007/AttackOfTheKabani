@@ -19,6 +19,10 @@ public class GameHandlerBehaviour : MonoBehaviour
     public Tilemap WalkableTileMap;
     public GameObject CrystalPosition; // GameObject, который стоит на тайле кристалла
     public List<GameObject> HeroSpawnPositions;
+    // Префабы кабанов
+    public GameObject SmallKabanPrefab;
+    public GameObject MediumKabanPrefab;
+    public GameObject LargeKabanPrefab;
     void Start()
     {
         GameMap map = CreateGameMap();
@@ -36,6 +40,14 @@ public class GameHandlerBehaviour : MonoBehaviour
         
         foreach(var enemy in _session.CurrentEnemies) {
             UnityEnemyHandler enemyHandler = new();
+            if(enemy.Item1.Name == "Малый кабан") {
+                enemyHandler.@object = Instantiate(SmallKabanPrefab);
+            }else if (enemy.Item1.Name == "Средний кабан") {
+                enemyHandler.@object = Instantiate(MediumKabanPrefab);
+            }else {
+                enemyHandler.@object = Instantiate(LargeKabanPrefab);
+            }
+            enemyHandler.Replace(enemy.Item1.Position);
         }
     }
 

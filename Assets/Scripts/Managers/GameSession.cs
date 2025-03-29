@@ -23,7 +23,7 @@ public class GameSession
     }
 
     public GameMap GameMap { get; protected set; }
-    public List<(IEnemy, EnemyPath)> CurrentEnemies { get; protected set; }
+    public List<(IEnemy, EnemyPath)> CurrentEnemies { get; protected set; } = new();
     public List<IPlayer> Players { get; protected set; }
     /// <summary>
     /// Номер текущей осады
@@ -32,12 +32,12 @@ public class GameSession
 
     public List<Siege> Sieges {get; protected set; } = new(); 
 
-    public List<Force> Forces {get; protected set; }
+    public List<Force> Forces {get; protected set; } = new();
 
     /// <summary>
     /// Если коэффициентов для нужной стихии нет, принимать нужно единицу
     /// </summary>
-    public List<DamageCoefficient> Coefficients { get; protected set; }
+    public List<DamageCoefficient> Coefficients { get; protected set; } = new();
 
     public void StartGame()
     {
@@ -46,6 +46,8 @@ public class GameSession
         foreach(var enemy in startSiege.ForestAttackers) {
             int path = Random.Range(0, spawnPoints);
             CurrentEnemies.Add((enemy, GameMap.EnemyPaths[path]));
+
+            enemy.Position = GameMap.EnemyPaths[path].SpawnPoint;
         }
     }
 
@@ -123,6 +125,11 @@ public class GameSession
                 GenerateBigKaban(),
             }
         };
+
+        result.Add(one);
+        result.Add(two);
+        result.Add(three);
+
         return result;
     }
 
