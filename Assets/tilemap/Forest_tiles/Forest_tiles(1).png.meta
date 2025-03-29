@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 57ad561b6412e5841b636fcdd63cc308
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5092015027328182090
+    second: Forest_tiles(1)_0
+  - first:
+      213: -113864281614074052
+    second: Forest_tiles(1)_1
+  - first:
+      213: 1647736378474149133
+    second: Forest_tiles(1)_2
+  - first:
+      213: -1228941475071286066
+    second: Forest_tiles(1)_3
+  - first:
+      213: 2645530780083224153
+    second: Forest_tiles(1)_4
+  - first:
+      213: -1142498985831939930
+    second: Forest_tiles(1)_5
+  - first:
+      213: -721780434797488050
+    second: Forest_tiles(1)_6
+  - first:
+      213: 2000622311971287184
+    second: Forest_tiles(1)_7
+  - first:
+      213: 7019754773427184505
+    second: Forest_tiles(1)_8
+  - first:
+      213: -4202557948224289842
+    second: Forest_tiles(1)_9
+  - first:
+      213: -5357110089543834866
+    second: Forest_tiles(1)_10
+  - first:
+      213: 3155367814059103078
+    second: Forest_tiles(1)_11
+  - first:
+      213: 7432444181966948874
+    second: Forest_tiles(1)_12
+  - first:
+      213: -4382974297190046862
+    second: Forest_tiles(1)_13
+  - first:
+      213: -1001499012415558854
+    second: Forest_tiles(1)_14
+  - first:
+      213: 8744602518535794136
+    second: Forest_tiles(1)_15
+  - first:
+      213: -3311974751200235835
+    second: Forest_tiles(1)_16
+  - first:
+      213: -4838886767967764995
+    second: Forest_tiles(1)_17
+  - first:
+      213: 4820675632045725423
+    second: Forest_tiles(1)_18
+  - first:
+      213: 5811115190974714937
+    second: Forest_tiles(1)_19
+  - first:
+      213: 1910989446001837347
+    second: Forest_tiles(1)_20
+  - first:
+      213: 9064728608983614910
+    second: Forest_tiles(1)_21
+  - first:
+      213: 6892145652349141009
+    second: Forest_tiles(1)_22
+  - first:
+      213: 7430401901843913534
+    second: Forest_tiles(1)_23
+  - first:
+      213: -5505488981732276193
+    second: Forest_tiles(1)_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Forest_tiles(1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47e8de40b87aa640800000000000000
+      internalID: 5092015027328182090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest_tiles(1)_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fb9c50a097b6ef0800000000000000
+      internalID: -113864281614074052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest_tiles(1)_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05b072918fedd610800000000000000
+      internalID: 1647736378474149133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest_tiles(1)_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4a1a85d3ce1fee0800000000000000
+      internalID: -1228941475071286066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a4ca26960000df248b56aca5203aa749
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Forest_tiles(1)_0: 5092015027328182090
+      Forest_tiles(1)_1: -113864281614074052
+      Forest_tiles(1)_10: -5357110089543834866
+      Forest_tiles(1)_11: 3155367814059103078
+      Forest_tiles(1)_12: 7432444181966948874
+      Forest_tiles(1)_13: -4382974297190046862
+      Forest_tiles(1)_14: -1001499012415558854
+      Forest_tiles(1)_15: 8744602518535794136
+      Forest_tiles(1)_2: 1647736378474149133
+      Forest_tiles(1)_3: -1228941475071286066
+      Forest_tiles(1)_4: 2645530780083224153
+      Forest_tiles(1)_5: -1142498985831939930
+      Forest_tiles(1)_6: -721780434797488050
+      Forest_tiles(1)_7: 2000622311971287184
+      Forest_tiles(1)_8: 7019754773427184505
+      Forest_tiles(1)_9: -4202557948224289842
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
