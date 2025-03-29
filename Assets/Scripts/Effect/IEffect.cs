@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using System.Numerics;
+using UnityEngine;
 
 /// <summary>
 /// Какой-либо эффект (например, урон, лечение, бафф, дебафф и т.д.)
