@@ -1,0 +1,26 @@
+.hotbar {
+    flex-basis: auto;
+    background-image: url("project://database/Assets/Sprites/hotbar%20outer.png?fileID=8759071101205332596&guid=3b2284ed6f0defa4a9bff738078fc20e&type=3#hotbar outer_0");
+    background-position-y: bottom 0;
+    -unity-background-scale-mode: scale-to-fit;
+    background-color: rgba(0, 0, 0, 0);
+    background-size: contain;
+    width: 360px;
+    height: 0;
+}
+
+.hotbar-btn {
+    flex-basis: initial;
+    width: 64px;
+    height: 64px;
+    margin-right: 2px;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url("project://database/Assets/Sprites/base%20free.png?fileID=-1253121798616971176&guid=0d5da20ccc2b2c74d8d46eb90d43dd9c&type=3#base free_3");
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    color: rgba(27, 27, 27, 0);
+    margin-bottom: 5px;
+    padding-right: 0;
+}
