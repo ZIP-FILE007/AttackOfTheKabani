@@ -5,5 +5,7 @@ public interface IPersonage : IDestroyable, IMovable
 {
     IPlayer? CurrentPlayer { get; set; }
     bool IsPlayerControlled { get; }
-    List<IItem> Inventory { get; set; }
+    List<IItem> Inventory { get; }
+    IItem? SelectedWeapon { get; }
+    void SelectWeapon(IItem weapon);
 }

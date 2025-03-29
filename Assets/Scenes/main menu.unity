@@ -540,6 +540,9 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: caa6e852f40caf24eacef3e50d7d9be4, type: 3}
+  m_Script: {fileID: 11500000, guid: b7e02d01a33d06642a9fa444a6227675, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
