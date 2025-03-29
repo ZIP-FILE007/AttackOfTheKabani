@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 07cbe1308acdf584eab9c3d66d98f67f
+guid: 1deb2eb7879d19d4397b86b6e0ba9839
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 664025853279417895
-    second: '[A]Grass1-Dirt2_pipo_0'
+      213: 8460841109473474510
+    second: Inactive Multiplayer pixel_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -96,43 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: '[A]Grass1-Dirt2_pipo_0'
+      name: Inactive Multiplayer pixel_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 256
-        height: 192
+        width: 435
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7263562def7173900800000000000000
-      internalID: 664025853279417895
+      spriteID: ec7303f5922fa6570800000000000000
+      internalID: 8460841109473474510
       vertices: []
       indices: 
       edges: []
@@ -161,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      '[A]Grass1-Dirt2_pipo_0': 664025853279417895
+      Inactive Multiplayer pixel_0: 8460841109473474510
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
