@@ -8,6 +8,7 @@ using UnityEngine.Tilemaps;
 public class GameHandlerBehaviour : MonoBehaviour
 {
     private GameSession _session;
+    private IPlayer _player;
 
     public List<TilePath> Paths;
     public Tilemap WallTileMap;

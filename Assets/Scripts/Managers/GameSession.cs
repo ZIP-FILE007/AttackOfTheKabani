@@ -37,6 +37,11 @@ public class GameSession
     /// </summary>
     public List<DamageCoefficient> Coefficients { get; protected set; }
 
+    public void HandlePlayerMovement(IPlayer player, Vector2Int direction)
+    {
+        player.Move(direction);
+    }
+
     private static List<Force> GetDefaultForces()
     {
         List<Force> result = new();
