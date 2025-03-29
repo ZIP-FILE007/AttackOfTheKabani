@@ -22,6 +22,8 @@ public class Enemy : IEnemy, ICaster
 
         Session = session;
         Inventory = inventory;
+
+        ID = new();
     }
 
     public IPlayer? CurrentPlayer {get; set;} = null;
@@ -41,6 +43,8 @@ public class Enemy : IEnemy, ICaster
     public GameSession Session { get; protected set; }
 
     public IItem? SelectedWeapon {get; protected set;}
+    public Guid ID { get;}
+    public Action OnMove {get; set;}
 
     public void Hit(float damage, Force force)
     {
@@ -72,12 +76,16 @@ public class Enemy : IEnemy, ICaster
 
     public bool MoveTo(Vector2 position)
     {
-        throw new NotImplementedException();
+        OnMove.Invoke();
+        return true;
     }
 
     public Vector2 MoveToward(Vector2 offset)
     {
-        throw new NotImplementedException();
+        Vector2 newPos = Position + (Speed * Time.deltaTime * offset);
+        Position = newPos;
+        OnMove.Invoke();
+        return newPos;
     }
 
     public void SelectAttack(IDestroyable target)

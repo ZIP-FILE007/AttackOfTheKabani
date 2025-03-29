@@ -5,12 +5,14 @@ using UnityEngine.Tilemaps;
 
 public class GameSession
 {
-    public GameSession(List<IPlayer> players, Tilemap tilemap, List<Siege> sieges, List<Force> forces, List<DamageCoefficient> coefficients)
+    public GameSession(List<IPlayer> players, List<Siege> sieges, List<Force> forces, List<DamageCoefficient> coefficients,
+        GameMap gameMap)
     {
         Players = players;
-        Tilemap = tilemap;
         Sieges = sieges;
         Forces = forces;
+
+        GameMap = gameMap;
 
         if (Forces.Count == 0)
             Forces = GetDefaultForces();
@@ -20,9 +22,9 @@ public class GameSession
             Sieges = GetDefaultSieges();
     }
 
-    public List<IEntity> Entities { get; }
-    public List<IPlayer> Players { get; }
-    public Tilemap Tilemap  { get; set; }
+    public GameMap GameMap { get; protected set; }
+    public List<(IEnemy, EnemyPath)> CurrentEnemies { get; protected set; }
+    public List<IPlayer> Players { get; protected set; }
     /// <summary>
     /// Номер текущей осады
     /// </summary>
@@ -36,6 +38,21 @@ public class GameSession
     /// Если коэффициентов для нужной стихии нет, принимать нужно единицу
     /// </summary>
     public List<DamageCoefficient> Coefficients { get; protected set; }
+
+    public void StartGame()
+    {
+        Siege startSiege = Sieges.First();
+        int spawnPoints = GameMap.EnemyPaths.Count;
+        foreach(var enemy in startSiege.ForestAttackers) {
+            int path = Random.Range(0, spawnPoints);
+            CurrentEnemies.Add((enemy, GameMap.EnemyPaths[path]));
+        }
+    }
+
+    public void UpdateGame(float deltaTime, Vector2? moveDirection = null, int? hotbarClicked = null)
+    {
+
+    }
 
     public void HandlePlayerMovement(IPlayer player, Vector2Int direction)
     {
