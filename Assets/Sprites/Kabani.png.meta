@@ -1,0 +1,2639 @@
+fileFormatVersion: 2
+guid: b5431a993d0094b44b8f21ad3f6b0a4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8664950007238543187
+    second: Kabani_0
+  - first:
+      213: -4498565267210504834
+    second: Kabani_1
+  - first:
+      213: -2566766521632682925
+    second: Kabani_2
+  - first:
+      213: -5770489688420216794
+    second: Kabani_3
+  - first:
+      213: 5445067474281852480
+    second: Kabani_4
+  - first:
+      213: 6018157137922025969
+    second: Kabani_5
+  - first:
+      213: 1143717170189191194
+    second: Kabani_6
+  - first:
+      213: -2794492331669077633
+    second: Kabani_7
+  - first:
+      213: -6834903135481439895
+    second: Kabani_8
+  - first:
+      213: 6168856985793418608
+    second: Kabani_9
+  - first:
+      213: -7203590521771925735
+    second: Kabani_10
+  - first:
+      213: 8546280253471527276
+    second: Kabani_11
+  - first:
+      213: 976160587028384407
+    second: Kabani_12
+  - first:
+      213: -1923353437370771635
+    second: Kabani_13
+  - first:
+      213: 8247019031799950860
+    second: Kabani_14
+  - first:
+      213: -5799972670536312672
+    second: Kabani_15
+  - first:
+      213: -5047955736079117084
+    second: Kabani_16
+  - first:
+      213: 5195018222667997588
+    second: Kabani_17
+  - first:
+      213: -4952856622344951986
+    second: Kabani_18
+  - first:
+      213: -816414325952277973
+    second: Kabani_19
+  - first:
+      213: 7498423578486966821
+    second: Kabani_20
+  - first:
+      213: -108521553285664315
+    second: Kabani_21
+  - first:
+      213: -5605508456744533867
+    second: Kabani_22
+  - first:
+      213: 1874513650347200027
+    second: Kabani_23
+  - first:
+      213: 5885444342283057263
+    second: Kabani_24
+  - first:
+      213: 8179122346115343497
+    second: Kabani_25
+  - first:
+      213: -2600353867440511409
+    second: Kabani_26
+  - first:
+      213: -2940816219152906897
+    second: Kabani_27
+  - first:
+      213: -7871745624790085322
+    second: Kabani_28
+  - first:
+      213: -8161942455533812505
+    second: Kabani_29
+  - first:
+      213: -8166135697953930541
+    second: Kabani_30
+  - first:
+      213: -3705709404492454928
+    second: Kabani_31
+  - first:
+      213: -4732951445407760372
+    second: Kabani_32
+  - first:
+      213: 304320073529720292
+    second: Kabani_33
+  - first:
+      213: -7587718376060999900
+    second: Kabani_34
+  - first:
+      213: 3974336310397616011
+    second: Kabani_35
+  - first:
+      213: -4522656432553642247
+    second: Kabani_36
+  - first:
+      213: -5059046794876908054
+    second: Kabani_37
+  - first:
+      213: 3847542345215873246
+    second: Kabani_38
+  - first:
+      213: -410533935250123325
+    second: Kabani_39
+  - first:
+      213: -7268374274189718455
+    second: Kabani_40
+  - first:
+      213: -6785143891650931166
+    second: Kabani_41
+  - first:
+      213: 3056604548248276422
+    second: Kabani_42
+  - first:
+      213: -569169502327253192
+    second: Kabani_43
+  - first:
+      213: -5656465934618469933
+    second: Kabani_44
+  - first:
+      213: -8505987885533257084
+    second: Kabani_45
+  - first:
+      213: 3692144290528219558
+    second: Kabani_46
+  - first:
+      213: -2459933943607934291
+    second: Kabani_47
+  - first:
+      213: -290099466866478450
+    second: Kabani_48
+  - first:
+      213: -8493442441754469052
+    second: Kabani_49
+  - first:
+      213: -8159163691418795940
+    second: Kabani_50
+  - first:
+      213: 8739911421994433196
+    second: Kabani_51
+  - first:
+      213: 6630563699667217824
+    second: Kabani_52
+  - first:
+      213: 8232120886218313886
+    second: Kabani_53
+  - first:
+      213: -4965234172533414859
+    second: Kabani_54
+  - first:
+      213: 2140023591287333668
+    second: Kabani_55
+  - first:
+      213: -3582864650715362407
+    second: Kabani_56
+  - first:
+      213: -6850675204947220887
+    second: Kabani_57
+  - first:
+      213: 95122652153293582
+    second: Kabani_58
+  - first:
+      213: 4364362815086337043
+    second: Kabani_59
+  - first:
+      213: -1560760348067392539
+    second: Kabani_60
+  - first:
+      213: -6856145027333709165
+    second: Kabani_61
+  - first:
+      213: 3775880950793802488
+    second: Kabani_62
+  - first:
+      213: -8147016919209996921
+    second: Kabani_63
+  - first:
+      213: -6500872663454521257
+    second: Kabani_64
+  - first:
+      213: -6043245596018046452
+    second: Kabani_65
+  - first:
+      213: -3703941304673614463
+    second: Kabani_66
+  - first:
+      213: -6921319468495918356
+    second: Kabani_67
+  - first:
+      213: 5432493155394388307
+    second: Kabani_68
+  - first:
+      213: 5376021830898898719
+    second: Kabani_69
+  - first:
+      213: 1320955465443032358
+    second: Kabani_70
+  - first:
+      213: -1431564181579911278
+    second: Kabani_71
+  - first:
+      213: -5176734045493169894
+    second: Kabani_72
+  - first:
+      213: 4517314782065677511
+    second: Kabani_73
+  - first:
+      213: -7655087208607959360
+    second: Kabani_74
+  - first:
+      213: 6794470117932535767
+    second: Kabani_75
+  - first:
+      213: -6535695365369841486
+    second: Kabani_76
+  - first:
+      213: 2265500118282213631
+    second: Kabani_77
+  - first:
+      213: -7278025813183967960
+    second: Kabani_78
+  - first:
+      213: -3941153765715294690
+    second: Kabani_79
+  - first:
+      213: -2528832457624361732
+    second: Kabani_80
+  - first:
+      213: 5848786447542452956
+    second: Kabani_81
+  - first:
+      213: -3787282520892289300
+    second: Kabani_82
+  - first:
+      213: 5070317581307232089
+    second: Kabani_83
+  - first:
+      213: -3541858789090803015
+    second: Kabani_84
+  - first:
+      213: 8782601948369090989
+    second: Kabani_85
+  - first:
+      213: 6703070634996688806
+    second: Kabani_86
+  - first:
+      213: 8911269480271126376
+    second: Kabani_87
+  - first:
+      213: 7253194739285880090
+    second: Kabani_88
+  - first:
+      213: -4312124953341654598
+    second: Kabani_89
+  - first:
+      213: -79174220093192868
+    second: Kabani_90
+  - first:
+      213: 3162483827177331338
+    second: Kabani_91
+  - first:
+      213: -6295693943309443351
+    second: Kabani_92
+  - first:
+      213: -5626197890080624585
+    second: Kabani_93
+  - first:
+      213: 8232486817570590952
+    second: Kabani_94
+  - first:
+      213: 6632561573259260585
+    second: Kabani_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kabani_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 335
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b017f10d19757642aebcbbda87e6f17
+      internalID: -40709108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 337
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269e0d25d435bba48b84d2fb57efe0c0
+      internalID: 1257176610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 335
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4dae58dc4534f48816a4264dd760f0
+      internalID: -877269745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 335
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea147b34c33eb2a41a2becccabb04237
+      internalID: 107236189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 337
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34900f1dc03b55046ba4d4e05d1c0141
+      internalID: -1647144880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 335
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0f91b45863b8046828557f1ec590a0
+      internalID: -1912015956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 335
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae83ea578d516934f880c616849af36a
+      internalID: 405943441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 337
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0905642393b919b498ebc67327ab33bc
+      internalID: 1283054814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 335
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b0155343f891d44894b0db9e734fc6
+      internalID: -132063902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 335
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d6b73dd2a6e0646b9ce4a33c21b865
+      internalID: -1100791869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 337
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b71d7109ac72f74782cd32339b90835
+      internalID: 333960254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 335
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6128802eb899c4489d49a0362c7a7ff
+      internalID: 2133400444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6928300987d78e44ea4de7b4cafd6fee
+      internalID: -510560084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 287
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999c096ceea77ff47babc76bd47d535f
+      internalID: 383794677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 287
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12dc68229359ff42bd1da3e9c8b8368
+      internalID: 564951024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 287
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5666acf705364846a9558b6da569205
+      internalID: 503854530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 287
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf479a484c88ba549aaccd954a5284e3
+      internalID: -444504774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 287
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cb88ddce9901f43818dc06446c3ebb
+      internalID: 786618609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 287
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bab602c7f77bd4193fb7ff69a7cc0a
+      internalID: 402671397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 287
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a301b58b3db3e24da420a991758470a
+      internalID: 1028266318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 287
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2603ca078eeae2c4589f85596fc1bf7f
+      internalID: -2107343403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 287
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2d39484a2fd7a4fbe6da190aad31aa
+      internalID: 129516281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 287
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0d36a4865bdfb408c58fa756c7c9dc
+      internalID: -97152229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 287
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01e9c9c20a6fef44893432893c55e46
+      internalID: 513573900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ea0170d45587748a6e5f4cbf4bbc89
+      internalID: 1500200921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 239
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2366231c6578f3c4c9ddda592136e237
+      internalID: -995901470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 239
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5f56201391c0744bbaeb1636c5ceae
+      internalID: -2053279371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 239
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0724738de4c90aa4789f73a9cd0746e1
+      internalID: 1769112497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 239
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8f32d1a0c4e034ab368c1382561462
+      internalID: -355417320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 239
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a5a4c1399e5df4186d052cffa8e39a
+      internalID: 117998456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 239
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db22920d8d56154388f192d6e1d3962
+      internalID: -799955390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 239
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebc1de3c746b374c838b48877d5e80e
+      internalID: 63141611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 239
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f37f8c4d915cb43b7e152e2a5dd818
+      internalID: 440616312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_33
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 239
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0f776846db71d458c340904446ea4a
+      internalID: 267624943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_34
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 239
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c8e4854de5a344f92dceeb6967dd70
+      internalID: -46256302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 239
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860c90c1077950e43b6c042130f9f2a2
+      internalID: -1343221524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648f7f7da2284ee489cd599f0c812ce1
+      internalID: 302060700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 193
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a227db0c0eca324f8f3a2c401f79244
+      internalID: -1016304659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 191
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e5ffdea241b294e9a72a3015241b51
+      internalID: 1852463391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_39
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 191
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b4ec41fced206438d8cc830f2e2a13
+      internalID: -1517194151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_40
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 193
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea3594acea9e6d4e9ce326f29ea528d
+      internalID: -237250023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 191
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9b21dcaff85614ab6968d72c8000d1
+      internalID: 993687771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_42
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 191
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3dd10088a98aa48860443b058fe458
+      internalID: 2093152696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_43
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 193
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3ed60b50965094193a73ddac913ad9
+      internalID: -1192326948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 191
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357dcdd5e7fbf074fb907f7dac4bae84
+      internalID: 1464102216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_45
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 191
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806ac2b0589917e47807fb6d727839a2
+      internalID: -164567919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 193
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cee4c0f066be764cbc10f57a40b404e
+      internalID: -640012093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_47
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 191
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d19311285ab09489355daf852259d7
+      internalID: -1243461750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 143
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c3d31687b30c246a262634a8184adf
+      internalID: 1780586235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_49
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 145
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d781e39e7e28a4197551820a3ddbc3
+      internalID: 1564596145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 143
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf8b446ab6ea754eada908c47ec79a4
+      internalID: -2115737216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_51
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 143
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebefe9a174f719498a6b0ed4b0c7646
+      internalID: -1094314249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_52
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 145
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67588aa656d1fb4d936eff7d08efa98
+      internalID: 927333992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_53
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 143
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6e523a0650ffb4e8b6796169ad590b
+      internalID: 1825528701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_54
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 143
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b061d324598c9419dc0dbf473b74c2
+      internalID: 1806751003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_55
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 145
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c2033934dff86458d9d7ab3985ccf4
+      internalID: 1187460734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_56
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 143
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473b4fca47eb74745acb48a51baa5523
+      internalID: -1870052288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_57
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 143
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0d106e06d6b95499e4608cb1c3dd27
+      internalID: 959311845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_58
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 145
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b1ad5c9a3d9a64793be3deb8ff3faf
+      internalID: -459216537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_59
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 143
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7dd3e16fe8e1d4597ab08d9fb13e6c
+      internalID: 628990117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcd00fe0efc3f74d96f49cfc7e9875f
+      internalID: -1717274453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 95
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834435740aace3d4eba2bbcba3c680d2
+      internalID: 1198603604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 95
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649b9e664c9e906468698918c62dc009
+      internalID: -1339439336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 95
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6ee6fdba55bf04c948cd6fad7330f2
+      internalID: 1318049932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_64
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 95
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a29d3e9f2bfe9f4c8f2e294780cd45a
+      internalID: 1943200144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_65
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 95
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63136a97cc46d94c9f899668bf6b57d
+      internalID: -707693360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_66
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 95
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff24c73de121e894e94c31b3a500881f
+      internalID: 1530239601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_67
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 95
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd26c595e9d9a27499f97ccdc873ab2f
+      internalID: 674621430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_68
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 95
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4908c2e112a2824d9ca2a2d6e6f3632
+      internalID: 1526079481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_69
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 95
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ee8b2a9e2d0d54fb9b4726e2236016
+      internalID: 427723358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_70
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 95
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f5039a604449d4f85a0e9f7bd3044e
+      internalID: 95567368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_71
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 95
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e928835552241e54399b94af5365b769
+      internalID: 101048561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 47
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8d1265e6c37ec41b10569912e9b8ce
+      internalID: -1174719388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_73
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c920d74a24add14b9394d0cf27973f6
+      internalID: -1982983530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_74
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 47
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9b455b9e1500c4db29ee4a053f68df
+      internalID: -729487764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 47
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aa0deb803a7a24db91977457435247
+      internalID: -1639863323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_76
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 47
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be612148f3764604fb8fc347adb14657
+      internalID: 1212838841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_77
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 47
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f5c957f167d714fba3bf2c8034d008
+      internalID: -1832189813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_78
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 47
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786651dc0741086418d571bd43adc3f7
+      internalID: -463824542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_79
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 47
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8743adb8adef640a956ad327bbb0be
+      internalID: -1669018874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_80
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 47
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751d257f6e1848841a7aff7b093f5743
+      internalID: 1049449592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_81
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 47
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae0d5baecd06d04ebd55a34a712f020
+      internalID: -216794789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_82
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 47
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1e7ab8f21f319439343fd3a7cd8604
+      internalID: 2099667606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_83
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 47
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76f8605a4b2fba44bda70ab7c952606
+      internalID: -207445050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4262ba58a3f38843a30c9196d3c721b
+      internalID: -633431603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_85
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6803dd60a57ea7d46928dbd9f66038aa
+      internalID: -1015519099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_86
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893acac33ab314245a6e49c7979986b7
+      internalID: -1405465525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_87
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eba79b02339f347aa05c91c05ea6eb
+      internalID: -1142046859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_88
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50c0f9cf57dfb4418eb4e118f9ab0ba
+      internalID: 1326540208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_89
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ad4316e188d82498a1f2a878040b25
+      internalID: -1243042348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_90
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e4c5416d862f643986f62544ea4cbf
+      internalID: 695955419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_91
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a43dd615b8f970418629fcfd809a14d
+      internalID: -2138350155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_92
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b7805720e79874ca13889e836e7ada
+      internalID: -511877936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_93
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 0
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62c10268df8d274799c85f1fbf704b6
+      internalID: 1926099922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_94
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea54ebc271d6604e9729fe48337b8ba
+      internalID: -43925284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabani_95
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddf0d6e6ffa1fe4e8a2bb1e521b935f
+      internalID: -1966184364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: da94de283fe391048811952980844d55
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kabani_0: -40709108
+      Kabani_1: 1257176610
+      Kabani_10: 333960254
+      Kabani_11: 2133400444
+      Kabani_12: -510560084
+      Kabani_13: 383794677
+      Kabani_14: 564951024
+      Kabani_15: 503854530
+      Kabani_16: -444504774
+      Kabani_17: 786618609
+      Kabani_18: 402671397
+      Kabani_19: 1028266318
+      Kabani_2: -877269745
+      Kabani_20: -2107343403
+      Kabani_21: 129516281
+      Kabani_22: -97152229
+      Kabani_23: 513573900
+      Kabani_24: 1500200921
+      Kabani_25: -995901470
+      Kabani_26: -2053279371
+      Kabani_27: 1769112497
+      Kabani_28: -355417320
+      Kabani_29: 117998456
+      Kabani_3: 107236189
+      Kabani_30: -799955390
+      Kabani_31: 63141611
+      Kabani_32: 440616312
+      Kabani_33: 267624943
+      Kabani_34: -46256302
+      Kabani_35: -1343221524
+      Kabani_36: 302060700
+      Kabani_37: -1016304659
+      Kabani_38: 1852463391
+      Kabani_39: -1517194151
+      Kabani_4: -1647144880
+      Kabani_40: -237250023
+      Kabani_41: 993687771
+      Kabani_42: 2093152696
+      Kabani_43: -1192326948
+      Kabani_44: 1464102216
+      Kabani_45: -164567919
+      Kabani_46: -640012093
+      Kabani_47: -1243461750
+      Kabani_48: 1780586235
+      Kabani_49: 1564596145
+      Kabani_5: -1912015956
+      Kabani_50: -2115737216
+      Kabani_51: -1094314249
+      Kabani_52: 927333992
+      Kabani_53: 1825528701
+      Kabani_54: 1806751003
+      Kabani_55: 1187460734
+      Kabani_56: -1870052288
+      Kabani_57: 959311845
+      Kabani_58: -459216537
+      Kabani_59: 628990117
+      Kabani_6: 405943441
+      Kabani_60: -1717274453
+      Kabani_61: 1198603604
+      Kabani_62: -1339439336
+      Kabani_63: 1318049932
+      Kabani_64: 1943200144
+      Kabani_65: -707693360
+      Kabani_66: 1530239601
+      Kabani_67: 674621430
+      Kabani_68: 1526079481
+      Kabani_69: 427723358
+      Kabani_7: 1283054814
+      Kabani_70: 95567368
+      Kabani_71: 101048561
+      Kabani_72: -1174719388
+      Kabani_73: -1982983530
+      Kabani_74: -729487764
+      Kabani_75: -1639863323
+      Kabani_76: 1212838841
+      Kabani_77: -1832189813
+      Kabani_78: -463824542
+      Kabani_79: -1669018874
+      Kabani_8: -132063902
+      Kabani_80: 1049449592
+      Kabani_81: -216794789
+      Kabani_82: 2099667606
+      Kabani_83: -207445050
+      Kabani_84: -633431603
+      Kabani_85: -1015519099
+      Kabani_86: -1405465525
+      Kabani_87: -1142046859
+      Kabani_88: 1326540208
+      Kabani_89: -1243042348
+      Kabani_9: -1100791869
+      Kabani_90: 695955419
+      Kabani_91: -2138350155
+      Kabani_92: -511877936
+      Kabani_93: 1926099922
+      Kabani_94: -43925284
+      Kabani_95: -1966184364
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
