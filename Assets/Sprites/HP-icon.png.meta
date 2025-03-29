@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 3b2284ed6f0defa4a9bff738078fc20e
+guid: 0d3a78b04f6c9bf4c96e3f2dd1b6c3d9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8759071101205332596
-    second: hotbar outer_0
+      213: -2351076814945457845
+    second: HP-icon_0
+  - first:
+      213: -5654735635101187938
+    second: HP-icon_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +40,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +78,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,23 +103,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hotbar outer_0
+      name: HP-icon_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 187
-        height: 40
+        y: 3
+        width: 31
+        height: 26
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 472cbbd42c87e8970800000000000000
-      internalID: 8759071101205332596
+      spriteID: b49e485e71c4f5fd0800000000000000
+      internalID: -2351076814945457845
       vertices: []
       indices: 
       edges: []
@@ -125,7 +128,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 81e9fa253ad4be14fa49525d7618b4b7
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +138,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      hotbar outer_0: 8759071101205332596
+      HP-icon_0: -2351076814945457845
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
