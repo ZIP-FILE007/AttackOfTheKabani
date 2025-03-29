@@ -9,9 +9,9 @@ public class GameHandlerBehaviour : MonoBehaviour
 {
     private GameSession _session;
 
-    public List<TilePath> Paths { get ; set; }
-    public Tilemap WallTileMap { get; set; }
-    public Tilemap WalkableTileMap { get; set; }
+    public List<TilePath> Paths;
+    public Tilemap WallTileMap;
+    public Tilemap WalkableTileMap;
     void Start()
     {
 
