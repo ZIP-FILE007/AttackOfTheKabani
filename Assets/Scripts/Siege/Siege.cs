@@ -1,11 +1,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 /// <summary>
-/// Класс задаёт характеристики волны, её время суток, врагов, и т.д.
+/// пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅ.пїЅ.
 /// </summary>
 public class Siege
 {
+    public int Day { get; set; }
     public int Hour { get; set; }
-    public List<IEnemy> ForestAttackers { get; set; }
-    public List<IEnemy> TeleportAttackers { get; set; }
+    public List<IEnemy> ForestAttackers { get; set; } = new List<IEnemy>();
+    public List<IEnemy> TeleportAttackers { get; set; } = new List<IEnemy>();
 }

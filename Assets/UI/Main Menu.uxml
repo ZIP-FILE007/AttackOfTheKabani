@@ -1,0 +1,10 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/main-style.uss?fileID=7433441132597879392&amp;guid=1907cb3088a523a459a668da60c550ca&amp;type=3#main-style" />
+    <engine:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Sprites/main%20zastavka.png?fileID=6309624427416497777&amp;guid=d6ffdaff81913764cb528005617cf84e&amp;type=3#main zastavka_0&quot;); background-size: cover; background-position-x: center 0; background-position-y: top -28px;">
+        <engine:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Sprites/pxArt(2).png?fileID=2800000&amp;guid=b2b354a254ab7f14dabe6952fda5a03a&amp;type=3#pxArt(2)&quot;); background-size: contain;" />
+        <engine:Button name="company-button" class="company" style="border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0;" />
+        <engine:Button name="multiplayer-button" class="multiplayer" style="border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0;" />
+        <engine:Button name="settings-button" class="settings" style="border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0;" />
+        <engine:Button name="authors-button" class="authors" style="border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0;" />
+    </engine:VisualElement>
+</engine:UXML>

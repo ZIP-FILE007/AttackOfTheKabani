@@ -9,20 +9,14 @@ using UnityEngine;
 /// </remarks>
 public class Force
 {
-    public Force(string name, Color color, List<DamageCoefficient> coefficients)
+    public Force(string name, Color color)
     {
         Name = name;
         Color = color;
-        Coefficients = coefficients;
     }
 
     [SerializeField]
     public string Name { get; protected set; }
     [SerializeField]
     public Color Color { get; protected set; }
-    /// <summary>
-    /// Если коэффициентов для нужной стихии нет, принимать нужно единицу
-    /// </summary>
-    [SerializeField]
-    public List<DamageCoefficient> Coefficients { get; protected set; }
 }

@@ -21,11 +21,11 @@ public interface IAbility
     /// <summary>
     /// Время перезарядки способности
     /// </summary>
-    float BetweenCastTime { get; }
+    float ReloadTime { get; }
     /// <summary>
     /// Текущий кулдаун способности
     /// </summary>
-    float CurrentCooldown { get; }
+    float Cooldown { get; }
     Action OnActivation { get; }
     Action OnReady { get; }
     bool IsReady { get;}
@@ -40,5 +40,8 @@ public interface IAbility
     /// <returns>True если кулдаун закончился; Иначе False</returns>
     bool ChangeCooldown(float deltaTime);
 
-    void Activate(IEntity activator);
+    void Activate(IEntity activator, List<IEntity> targets);
+
+    void LogActivation();
+    void LogReady();
 }

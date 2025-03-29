@@ -1,0 +1,67 @@
+.company {
+    background-color: transparent;
+    border: none;
+    padding-top: 35px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.multiplayer {
+    background-color: transparent;
+    border: none;
+    padding-top: 35px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.settings {
+    background-color: transparent;
+    border: none;
+    padding-top: 35px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.authors {
+    background-color: transparent;
+    border: none;
+    padding-top: 35px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.company {
+    background-image: url("project://database/Assets/Sprites/Inactive%20Company%20pixel.png?fileID=2800000&guid=13b2d83947f2dc641a7f9aabc1c5acaf&type=3#Inactive Company pixel");
+}
+
+.multiplayer {
+    background-image: url("project://database/Assets/Sprites/Inactive%20Multiplayer%20pixel.png?fileID=2800000&guid=1deb2eb7879d19d4397b86b6e0ba9839&type=3#Inactive Multiplayer pixel");
+}
+
+.settings {
+    background-image: url("project://database/Assets/Sprites/Inactive%20Settings%20pixel.png?fileID=2800000&guid=50e8afdfebb94ca43881a61bde9dd207&type=3#Inactive Settings pixel");
+}
+
+.authors {
+    background-image: url("project://database/Assets/Sprites/Inactive%20Authors%20pixel.png?fileID=2800000&guid=6982dfbb24f584a4cb7d9dd9451f5d60&type=3#Inactive Authors pixel");
+}
+
+.company:hover {
+    background-image: url("project://database/Assets/Sprites/Active%20Company%20pixel.png?fileID=-6597960955292489295&guid=dc9c8423e6a1f734aa1e61b7eac42fbc&type=3#Active Company pixel_0");
+}
+
+.multiplayer:hover {
+    background-image: url("project://database/Assets/Sprites/Active%20Multiplayer%20pixel.png?fileID=4486428744347974715&guid=caf6d77fa5da95a488f7789b1197ee4b&type=3#Active Multiplayer pixel_0");
+}
+
+.settings:hover {
+    background-image: url("project://database/Assets/Sprites/Active%20Settings%20pixel.png?fileID=-3720718295619247620&guid=e2dd1a13367f8b343b25c4ff9b5e0c21&type=3#Active Settings pixel_0");
+}
+
+.authors:hover {
+    background-image: url("project://database/Assets/Sprites/Active%20Authors%20pixel.png?fileID=-2136845210691641054&guid=9ff142fb8aa676547a553cde34a93cc0&type=3#Active Authors pixel_0");
+}

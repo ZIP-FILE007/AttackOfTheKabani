@@ -18,5 +18,10 @@ public interface IEntity
     /// <summary>
     /// Имя сущности
     /// </summary>
-    string Name { get; set; }
+    string Name { get; }
+
+    /// <summary>
+    /// Игровая сессия, в которой участвует объект
+    /// </summary>
+    GameSession Session { get;}
 }
