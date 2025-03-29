@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using UnityEngine;
 /// <summary>
 /// Способности персонажей
@@ -9,20 +10,35 @@ public interface IAbility
     /// <summary>
     /// Название способности
     /// </summary>
-    string Name { get; protected set; }
+    string Name { get; }
     /// <summary>
     /// Тип способности
     /// </summary>
-    AbilityType Type { get; protected set; }
+    /// <remarks>
+    /// Семейство способностей лол
+    /// </remarks>
+    AbilityType Type { get; }
     /// <summary>
     /// Время перезарядки способности
     /// </summary>
-    float BetweenCastTime { get; protected set; }
+    float BetweenCastTime { get; }
     /// <summary>
     /// Текущий кулдаун способности
     /// </summary>
-    float CurrentCooldown { get; protected set; }
-    Action OnActivation { get; protected set; }
-    Action OnReady { get; protected set; }
-    bool IsReady { get; protected set; }
+    float CurrentCooldown { get; }
+    Action OnActivation { get; }
+    Action OnReady { get; }
+    bool IsReady { get;}
+    /// <summary>
+    /// Эффекты которые создаёт абилка
+    /// </summary>
+    List<IEffect> Effects { get; }
+
+    /// <summary>
+    /// Уменьшить кулдаун на изменение времени
+    /// </summary>
+    /// <returns>True если кулдаун закончился; Иначе False</returns>
+    bool ChangeCooldown(float deltaTime);
+
+    void Activate(IEntity activator);
 }
